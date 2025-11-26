@@ -40,6 +40,9 @@ Tables not used were excluded due to irrelevance to the analytical scope.
 ## ER Diagram
 ---<img width="1536" height="857" alt="Screenshot 2025-11-24 225952" src="https://github.com/user-attachments/assets/c87113c2-4d4c-49a1-a962-5970d822d46d" />
 
+## Tools & Technology
+Microsoft SQL Server (SSMS) — for writing and running SQL queries
+Excel  — for reviewing dataset structure and data cleaning
 
 ## Executive Summary
 
