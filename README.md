@@ -42,18 +42,19 @@ Tables not used were excluded due to irrelevance to the analytical scope.
 
 ## Tools & Technology
 Microsoft SQL Server (SSMS) — for writing and running SQL queries
+
 Excel  — for reviewing dataset structure and data cleaning
 
 ## Executive Summary
 
-The analysis examined Bystack Bank’s customer account, transaction, and investment data (2011 – 2023) to identify high-value customers, measures account activity, and investment engagement. The analysis uses customer, accounts, transactions and investments tables.
+The analysis examined Bystack Bank’s customer account, transaction, and investment data (2011 – 2023) to identify high-value customers, measure account activity, and investment engagement. The analysis uses customer, accounts, transactions and investments tables.
 Key Findings
 - Top 63 customers hold 38% of total value — losing them would materially impact revenue.
 - 49 of 63 (77.8%) top customers hold more than 1 distinct investment type — ideal for premium advisory upsell.
 - 39% of registered users have zero balance and no recorded transactions — indicating dormant accounts or onboarding drop-off.
 - Yearly transaction volume fluctuates, peaking in 2020 with a noticeable decline in 2015 and 2018-2019, and stabilization during 2021-2022
 
-Together, these findings indicate a high dependence on a small set of sophisticated investors while a large inactive cohort remains untapped. This implies immediate opportunities for targeted retention and activation programs.
+Together, these findings suggest a high dependence on a small set of sophisticated investors, while a large, inactive cohort remains untapped. This implies immediate opportunities for targeted retention and activation programs.
 
 Bystack can benefit by assigning dedicated relationship managers and introducing tiered premium services to reduce churn risk. Also, redundant accounts can be reduced by offering personalized investment advisory and consolidation services
 
@@ -221,7 +222,7 @@ Based on findings across all business questions, the following strategic actions
 ###  1. 
 
 - Implement loyalty or tiered premium programs (e.g., Gold / Platinum / Signature membership).
--	Offer customers in this segment personalized incentives and starter investment to further engage these customers.
+-	Offer customers in this segment personalized incentives and starter investments to further engage these customers.
 -	Assign dedicated relationship managers to provide tailored support and advisory service to top clients.
 -	Provide priority access to customer support and fast-track service channels for this segment
 
