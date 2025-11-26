@@ -97,6 +97,7 @@ FROM RankedValue RV
 WHERE RV.RankS = 1;
 ```
 ``Result``
+
 <img width="926" height="415" alt="Screenshot 2025-11-26 020144" src="https://github.com/user-attachments/assets/f069fe71-03b8-496e-9fc0-861a6c4f1e6b" />
 
 - Analysis revels that only 6% (63 out of 1,000) constitute the top 10% by total value. Despite this small proportion, they hold 38% of the total customer value, reflecting a high concentration of financial value. Losing one or more of these customers would cause a great negative effect.
@@ -130,6 +131,7 @@ GROUP BY C.CustomerID
 
 ```
 ``Result``
+
 <img width="727" height="430" alt="Screenshot 2025-11-26 020553" src="https://github.com/user-attachments/assets/144476e0-2a29-4338-b4b0-9601730267f0" />
 
 Analysis shows that 39% of the company’s registered customers hold a zero-account balance and have no recorded transactions (deposits or withdrawals).
